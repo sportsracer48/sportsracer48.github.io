@@ -24,17 +24,14 @@ There was a diversity of responses to the piece. Below are some user testimonial
 
 One interesting thing we found was that people would very often not take the money they had earned. Multiple times we checked on the project to find quarters left behind in various places (pictures below). From survey responses and conversations with some people, it seemed people were unsure of whether they were allowed to or supposed to take the money. While we could have made this more clear, we were intrigued by this reaction. If people really felt like they deserved money for their attention, we imagine they would have taken it.
 
-<div style="text-align:center">
 ![](/img/coinTable.jpg)
 Money left by dispenser
 ![](/img/coinBox.jpg)
 Money left on top of black box
 ![](/img/coinHide.jpg)
 Money left hidden under the monitor
-</div>
 
 ## User Testimonials
-<div style="text-align:center">
 "I took a quarter but was not sure if I was suppse(sic) to."
 
 "Decontextualizing the words brought to light how meaningless they can become, particularly in marketing/value discussions."
@@ -46,4 +43,3 @@ Money left hidden under the monitor
 "What do I do with the money? I have 6 quarters and I don't feel like I deserve them."
 
 "Previously, I'd say that I love me some free money but now I'm not sure if I do."
-</div>
