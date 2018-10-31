@@ -24,20 +24,26 @@ There was a diversity of responses to the piece. Below are some user testimonial
 
 One interesting thing we found was that people would very often not take the money they had earned. Multiple times we checked on the project to find quarters left behind in various places (pictures below). From survey responses and conversations with some people, it seemed people were unsure of whether they were allowed to or supposed to take the money. While we could have made this more clear, we were intrigued by this reaction. If people really felt like they deserved money for their attention, we imagine they would have taken it.
 
-|![](/img/coinTable.jpg)|![](/img/coinBox.jpg)|![](/img/coinHide.jpg)|
-|:---:|:---:|:---:|
-|Money left by dispenser|Money left on top of black box|Money left hidden under the monitor|
+<div style="text-align:center">
+![](/img/coinTable.jpg)
+Money left by dispenser
+![](/img/coinBox.jpg)
+Money left on top of black box
+![](/img/coinHide.jpg)
+Money left hidden under the monitor
+</div>
 
 ## User Testimonials
+<div style="text-align:center">
+"I took a quarter but was not sure if I was suppse(sic) to."
 
-->"I took a quarter but was not sure if I was suppse(sic) to."<-
+"Decontextualizing the words brought to light how meaningless they can become, particularly in marketing/value discussions."
 
-->"Decontextualizing the words brought to light how meaningless they can become, particularly in marketing/value discussions."<-
+"How do I load the quarters back in? I don’t want to take your money. Do I leave the quarters?"
 
-->"How do I load the quarters back in? I don’t want to take your money. Do I leave the quarters?"<-
+"Immediately I recognized that I was trying to “figure it out”. What’s this installation about, what motivated it, is it supposed to be programming me, is it supposed to be reprogramming me(?)"
 
-->"Immediately I recognized that I was trying to “figure it out”. What’s this installation about, what motivated it, is it supposed to be programming me, is it supposed to be reprogramming me(?)"<-
+"What do I do with the money? I have 6 quarters and I don't feel like I deserve them."
 
-->"What do I do with the money? I have 6 quarters and I don't feel like I deserve them."<-
-
-->"Previously, I'd say that I love me some free money but now I'm not sure if I do."<-
+"Previously, I'd say that I love me some free money but now I'm not sure if I do."
+</div>
