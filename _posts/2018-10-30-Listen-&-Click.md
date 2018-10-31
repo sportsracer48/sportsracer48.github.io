@@ -22,19 +22,19 @@ All the while the camera sits there filming. The user has no idea who’s watchi
 ## What Happened
 There was a diversity of responses to the piece. Below are some user testimonials.
 
-One interesting thing we found was that people would very often not take the money they had earned. Multiple times we checked on the project to find quarters left behind in various places (pictures below). From survey responses and conversations with some people, it seemed people were unsure of whether they were allowed to or supposed to take the money. While we could have made this more clear, we were intrigued by this reaction. If people really felt like they deserved money for their attention, we imagine they would have taken it.
+One interesting thing we found was that when we stopped by to check on the piece, people had often left behind the money they had earned. We found quarters left behind in various places (pictures below). From survey responses and conversations with some people, it seemed people were unsure of whether they were allowed to or supposed to take the money. One even said the most confusing part of the interaction was where they were supposed to leave the money. While we could have made it more clear that the money was intended to be claimed by its earner, we were intrigued by this reaction. If people really felt like they deserved money for their attention, we imagine they would have taken it.
 
 ![](/img/coinTable.jpg)
 
-Money left by dispenser
+Money left by dispenser and on headphone stand.
 
 ![](/img/coinBox.jpg)
 
-Money left on top of black box
+Money left on top of black box.
 
 ![](/img/coinHide.jpg)
 
-Money left hidden under the monitor
+Money left hidden under the monitor.
 
 ## User Testimonials
 "I took a quarter but was not sure if I was suppse(sic) to."
