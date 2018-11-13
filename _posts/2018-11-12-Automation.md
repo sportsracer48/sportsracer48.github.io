@@ -3,7 +3,7 @@ layout: post
 title: Credit
 ---
 
-Reading about sesame credit is terrifying. I know it’s notoriously hard to predict the success of future technologies, but I’m pretty damn sure that sesame credit is going to work extremely well. It looks like best case scenario it will lead to long lasting political stability for China, and worst case scenario it will do the same thing everywhere else too. If it can survive for a single generation it will become a part of everyday life and people will just not really question it, like credit scores in the united states. Once it becomes a fact of life, I don’t see it going away.
+Reading about sesame credit is terrifying. I know it’s notoriously hard to predict the success of future technologies, but I’m pretty damn sure that sesame credit is going to work extremely well. It looks like best case scenario it will lead to long lasting political stability for China, and worst case scenario it will do the same thing everywhere else too. If it can survive for a single generation it will become a part of everyday life and people will just not really question it, like credit scores in the United States. Once it becomes a fact of life, I don’t see it going away.
 
 Score above 800? 10% off groceries
 
