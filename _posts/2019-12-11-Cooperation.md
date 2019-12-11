@@ -1,3 +1,7 @@
+---
+layout: post
+title: The social evolution of cooperation
+---
 # The social evolution of cooperation
 
 Henry Rachootin
@@ -8,9 +12,9 @@ In [2], T. Ohdaira presents a model for social cooperation and selfishness. It i
 
 Ohdaira's experiment adds a 'decision cost' to the agents' strategies, which is a value between 0 and 1 that is subtracted from the agent's score after playing all of their rounds, and compares the results to the same experiment without the cost. This is meant to coarsely model the fact that different people justify their decisions to cooperate or defect in more or less complex ways, which makes their deliberation cost them more or less. One strategy might involve choosing to cooperate or defect after hemming and hawing for a long time, whereas another might do so without thinking at all. The decision cost is part of the agent's strategy so it is copied with the strategies. The costs are initially chosen at random, independently for each agent.
 
-Ohdaira finds that the addition of decision allows cooperation to dominate in Barabasi Albert [2] networks where otherwise defection would dominates, and allows cooperation to dominate faster than it otherwise would in ring lattices, but has little impact in the Watts Strogatz [3] network. All of the networks he uses have an average degree of four.
+Ohdaira finds that the addition of decision cost allows cooperation to dominate in Barabasi Albert [2] networks more often than is would otherwise dominate, allows cooperation to dominate faster than it otherwise would in ring lattices, and only allows cooperation to spread to more of the Watts Strogatz [3] network. All of the networks he uses have an average degree of four.
 
-I reproduce his result on the ring lattice with my own python implementation of his model, but refute his result on the and Watts Strogatz and Barabasi Albert networks. I use networks with 1000 nodes and an average degree of four. You can see my code [here](https://github.com/sportsracer48/cooperation/blob/master/code/Extension.ipynb), or run it [here](https://mybinder.org/v2/gh/sportsracer48/cooperation/master?filepath=code%2FExtension.ipynb).
+I reproduce his result on the ring lattice and Watts Strogatz network with my own python implementation of his model, but refute his result on the Barabasi Albert networks. I use networks with 1000 nodes and an average degree of four. You can see my code [here](https://github.com/sportsracer48/cooperation/blob/master/code/Extension.ipynb), or run it [here](https://mybinder.org/v2/gh/sportsracer48/cooperation/master?filepath=code%2FExtension.ipynb).
 
 ![](https://raw.githubusercontent.com/sportsracer48/cooperation/master/code/Ring_Lattice.png)
 
@@ -22,7 +26,7 @@ On the ring lattice, the addition of the decision cost does indeed cause coopera
 
 **Figure 2:** *Evolution of the Watts Strogatz model with and without decision costs.*
 
-On the Watts Strogatz graph, neither strategy ever dominates, but the addition of decision costs shifts the equilibrium towards cooperation, and does so in every single iteration of the experiment, as shown in Figure 2. It is clear to me that the decision cost helps cooperators in this network, but Odhaira does not seem to think so. The effect does look less pronounced in his results, but I suspect this is because he had fewer nodes in his network, since he does not publish this figure. The same effect as in the ring lattice explains this behavior, but the bridges of the Watts Strogatz graph allow pockets of defectors to survive if they have access to multiple cooperators. These bridges also reduce the time needed for the network to reach equilibrium by reducing its mean path length.
+On the Watts Strogatz graph, neither strategy ever dominates, but the addition of decision costs shifts the equilibrium towards cooperation, and does so in every single iteration of the experiment, as shown in Figure 2. It is clear to me that the decision cost helps cooperators in this network. The same effect as in the ring lattice explains this behavior, but the bridges of the Watts Strogatz graph allow pockets of defectors to survive if they have access to multiple cooperators. These bridges also reduce the time needed for the network to reach equilibrium by reducing its mean path length.
 
 ![](https://raw.githubusercontent.com/sportsracer48/cooperation/master/code/Barabasi_Albert_Graph.png)
 
